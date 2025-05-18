@@ -1,10 +1,9 @@
 # Riyadh-Public-Transport
-For this assignment, we used Riyadh Metro Stations dataset to envision and build a comprehensive RTA (Riyadh Transport Authority) dashboard.
-To guide our creativity, here are some of the cases we explored:
-Urban Mobility Analysis: Evaluate the distribution and accessibility of metro stations across the city.
-Transportation Planning: Assess station usage based on the number of ratings and user reviews.
-Navigation & Mapping: Enhance public transport insights by visualizing real-time station locations.
-Service Optimization: Identify underserved areas where metro service improvements are needed.
+For this assignment, we used Riyadh Metro Stations dataset to envision and build a comprehensive RTA (Riyadh Transport Authority) dashboard. To guide our creativity, here are the cases we explored:
+1- Urban Mobility Analysis: Evaluate the distribution and accessibility of metro stations across the city.
+2- Transportation Planning: Assess station usage based on the number of ratings and user reviews.
+3- Navigation & Mapping: Enhance public transport insights by visualizing real-time station locations.
+4- Service Optimization: Identify underserved areas where metro service improvements are needed.
 
 ![Picture1](https://github.com/user-attachments/assets/ca444082-a75a-48f7-8ec4-07754617b0ab)
 ![Picture2](https://github.com/user-attachments/assets/54aeaa65-041c-473d-bdaf-6b0895118768)
